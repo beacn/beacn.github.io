@@ -115,12 +115,12 @@ var data_vals = {
   "Underlayment":
   [
     {"name":"Asphalt Felt","carbon":0.5577037478},
-    {"name":"Thermoplastic","carbon":0.5112284355},
+    {"name":"THIMBY Thermoplastic","carbon":0.5112284355},
     {"name":"EPDM","carbon":0.7900803093},
     ],
   "Sheathing":
   [
-    {"name":"Plywood","carbon":0.6633004749},
+    {"name":"THIMBY Plywood","carbon":0.6633004749},
     ],
   "Windows":
   [
@@ -131,7 +131,7 @@ var data_vals = {
     ],
     "Framing":
   [
-    {"name":"Lumber(pine)","carbon":9.394247581},
+    {"name":"THIMBY Lumber(fir)","carbon":9.394247581},
     {"name":"Vinyl","carbon":88.75651108},
     {"name":"Aluminum","carbon":21347.4712},
     {"name":"Fiberglass","carbon":1.091036295},
@@ -139,12 +139,12 @@ var data_vals = {
     ],
     "Door":
   [
-    {"name":"Pella 750 Sliding Door","carbon":1191.99},
+    {"name":"THIMBY Pella 750 Sliding Door","carbon":1191.99},
     ],
     "Steps":
   [
     {"name":"Concrete","carbon":0.0453592},
-    {"name":"Lumber(pine) ","carbon":0.2948348},
+    {"name":"THIMBY Lumber (fir)","carbon":0.2948348},
     {"name":"Granite","carbon":0.29029888},
     {"name":"Limestone","carbon":0.039462504},
     {"name":"Marble","carbon":0.052616672},
@@ -157,13 +157,13 @@ var data_vals = {
     {"name":"General","carbon":10.89},
     {"name":"THIMBY Waterborne","carbon":9.54},
     {"name":"Solventborne","carbon":14.085},
-    {"name":"Wood stain/Varnish","carbon":24.075},
+    {"name":"THIMBY Wood stain/Varnish","carbon":24.075},
     ],
     "eWalls":
   [
     {"name":"Lumber","carbon":0.3914269825},
     {"name":"Glue laminated timber","carbon":0.4930917282},
-    {"name":"Sawn Softwood","carbon":0.3552952611},
+    {"name":"THIMBY Sawn Softwood (cedar)","carbon":0.3552952611},
     {"name":"Steel","carbon":12.06516111},
     {"name":"General Concrete","carbon":0.09741395493},
     {"name":"Fiber-Cement Blocks*","carbon":0.2763013994},
@@ -171,7 +171,7 @@ var data_vals = {
     ],
     "PHeatExchange":
   [
-    {"name":"Solid Stainless Steel","carbon":2.79412672},
+    {"name":"THIMBY Solid Stainless Steel","carbon":2.79412672},
     ],
     "PoLumber":
   [
@@ -213,42 +213,42 @@ var data_vals = {
     "FrameWalls":
   [
     {"name":"HSS Steel (3x1.5x0.25)","carbon":2.136538946},
-    {"name":"THIMBY Lumber (Wood)","carbon":0.06931519482},
+    {"name":"Lumber (Wood)","carbon":0.06931519482},
     {"name":"THIMBY Plyboard","carbon":0.1140407459},
     {"name":"Glue laminated timber","carbon":0.08731832687},
     {"name":"Laminated Veneer lumber ","carbon":0.06523783042},
     {"name":"Medium Density fiberboard","carbon":0.07427076079},
     {"name":"Particle Board","carbon":0.1348666687},
     {"name":"Sawn Hardwood","carbon":0.01185572111},
-    {"name":"Sawn Softwood","carbon":0.06291686915},
+    {"name":"THIMBY Sawn Softwood","carbon":0.06291686915},
     {"name":"Polystyrene","carbon":10.14322806},
     {"name":"Engineered Lumber","carbon":0.09074749488},
     ],
     "FrameEdge":
   [
     {"name":"HSS Steel (3x3x0.25)","carbon":2.890611516},
-    {"name":"THIMBY Lumber (Wood)","carbon":0.09377938123},
+    {"name":"Lumber (Wood)","carbon":0.09377938123},
     {"name":"THIMBY Plyboard","carbon":0.1542904209},
     {"name":"Glue laminated timber","carbon":0.1181365599},
     {"name":"Laminated Veneer lumber ","carbon":0.08826294704},
     {"name":"Medium Density fiberboard","carbon":0.1004839705},
     {"name":"Particle Board","carbon":0.1824666694},
     {"name":"Sawn Hardwood","carbon":0.01604009326},
-    {"name":"Sawn Softwood","carbon":0.08512282296},
+    {"name":"THIMBY Sawn Softwood","carbon":0.08512282296},
     {"name":"Polystyrene","carbon":13.7231909},
     {"name":"Engineered Lumber","carbon":0.1227760225},
     ],
     "FrameRoof":
   [
     {"name":"HSS Steel (4x1.5x0.25)","carbon":2.639253992},
-    {"name":"THIMBY Lumber (Wood)","carbon":0.08562465243},
+    {"name":"Lumber (Wood)","carbon":0.08562465243},
     {"name":"THIMBY Plyboard","carbon":0.1408738625},
     {"name":"Glue laminated timber","carbon":0.1078638155},
     {"name":"Laminated Veneer lumber ","carbon":0.08058790817},
     {"name":"Medium Density fiberboard","carbon":0.09174623391},
     {"name":"Particle Board","carbon":0.1666000025},
     {"name":"Sawn Hardwood","carbon":0.01464530254},
-    {"name":"Sawn Softwood","carbon":0.07772083836},
+    {"name":"THIMBY Sawn Softwood","carbon":0.07772083836},
     {"name":"Polystyrene","carbon":12.52986995},
     {"name":"Engineered Lumber","carbon":0.1120998466},
     ],
