@@ -144,7 +144,7 @@ var data_vals = {
     "Steps":
   [
     {"name":"Concrete","carbon":0.0453592},
-    {"name":"THIMBY Lumber(fir) ","carbon":0.2948348},
+    {"name":"THIMBY Lumber(fir)","carbon":0.2948348},
     {"name":"Granite","carbon":0.29029888},
     {"name":"Limestone","carbon":0.039462504},
     {"name":"Marble","carbon":0.052616672},
@@ -337,7 +337,7 @@ var data_vals = {
     {"name":"Vinyl","carbon":6.32761875},
     ],
   "Fan":[
-    {"name": "THIMBY AE3-43”","carbon":37.8},
+    {"name": "THIMBY AE3-43” ","carbon":37.8},
     {"name":"AE3-50”","carbon":45.2},
     {"name":"AE3-60”","carbon":59.9}
   ],
@@ -414,7 +414,7 @@ var data_vals = {
     {"name":"THIMBY Ecovita privy toilet seat and lid", "carbon":0.762},
     {"name":"THIMBY Urine collection tank (RomoTech 60 Gal)","carbon":0.249},
     {"name":"THIMBY slow cooker (Hamilton Beack 7qt)","carbon":0.001},
-    {"name":"THIMBY PVC-STD (2)","carbon":1.095706849}
+    {"name":"THIMBY PVC-STD (2)","carbon":1.095706849},
     {"name":"THIMBY total toilet system","carbon":2.1167}
   ],
   "Shower Head":[
