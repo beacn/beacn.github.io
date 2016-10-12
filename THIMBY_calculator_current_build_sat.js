@@ -439,7 +439,7 @@ var data_vals = {
     {"name":"Cork","carbon":0.07571721042},
     {"name":"Bamboo","carbon":0.0526920938},
     {"name":"THIMBY Hardwood (white oak)","carbon":1.096704016},
-    {"name":"THIMBY Radiant flooring (Warmboard-R product)","carbon":29.70}
+    {"name":"THIMBY Radiant flooring (Warmboard-R product)","carbon":29.70},
     {"name":"THIMBY flooring total","carbon":30.7967},
     {"name":"Carpet","carbon":0.9109161214},
     {"name":"Ceramics","carbon":1.987244681},
