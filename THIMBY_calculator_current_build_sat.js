@@ -15,6 +15,7 @@ var data_vals = {
   [
     {"name":"75 Gallon High-Density Polyethylene","carbon":24.51},
     {"name":"40 Gallon High-Density Polyethylene","carbon":12.26},
+    {"name":"THIMBY 65 Gallon High-Density Polyethylene", "carbon":20.18},
     {"name":"20 Gallon High-Density Polyethylene","carbon":8.75},
     {"name":"10 Gallon High-Density Polyethylene","carbon":6.13},
     ],
@@ -28,6 +29,7 @@ var data_vals = {
     {"name":"STS w/ Electric Backup + Tank 300l (~80gal)","carbon":1100},
     {"name":"Solar Heater + Collector + Tank 150l (~40 gal)","carbon":631.97},
     {"name":"Natural gas + Tank 40 gal","carbon":11916},
+    {"name":"THIMBY Sanden CO2 pump","carbon":132},
     {"name":"Tankless Natural Gas (40 gal-eq)","carbon":9792},
     ],
   "Pipes":
@@ -39,7 +41,7 @@ var data_vals = {
     {"name":"PVC-STD (3)","carbon":2.139538128},
     {"name":"PVC STD (4)","carbon":2.797857552},
     {"name":"Copper (1/2)","carbon":0.7745100516},
-    {"name":"Copper (3/4)","carbon":1.117213614},
+    {"name":"THIMBY Copper (3/4)","carbon":1.117213614},
     {"name":"Copper (1)","carbon":1.459917177},
     {"name":"Copper (1 1/4)","carbon":1.80262074},
     {"name":"Copper (1 1/2)","carbon":2.145324302},
@@ -52,7 +54,7 @@ var data_vals = {
     {"name":"HDPE (1 1/2)","carbon":0.3851164769},
     {"name":"HDPE (2)","carbon":0.471314606},
     {"name":"HDPE (3)","carbon":0.9203151102},
-    {"name":"PEX (1/2)","carbon":0.2710785181},
+    {"name":"THIMBY PEX (1/2)","carbon":0.2710785181},
     {"name":"PEX (3/4)","carbon":0.391024765},
     {"name":"PEX (1)","carbon":0.5109710119},
     {"name":"PEX (1 1/4)","carbon":0.6309172588},
@@ -64,7 +66,7 @@ var data_vals = {
     ],
   "Plants":
   [
-    {"name":"Plants","carbon":-0.160571568}
+    {"name":"THIMBY Plants","carbon":-0.160571568}
     ],
   "PeatMoss":
   [
@@ -72,7 +74,7 @@ var data_vals = {
     ],
   "PlanterBoxes":
   [
-    {"name":"Wood","carbon":0.72}
+    {"name":"THIMBY Wood","carbon":0.72}
     ],
   "Gravel":
   [
@@ -80,7 +82,7 @@ var data_vals = {
     ],
   "Soil":
   [
-    {"name":"Soil","carbon":0.023}
+    {"name":"THIMBY Soil","carbon":0.023}
     ],
   "PVC":
   [
@@ -90,13 +92,13 @@ var data_vals = {
   [
     {"name":"75 Gallon High-Density Polyethylene","carbon":24.51},
     {"name":"40 Gallon High-Density Polyethylene","carbon":12.26},
-    {"name":"20 Gallon High-Density Polyethylene","carbon":8.75},
+    {"name":"THIMBY 20 Gallon High-Density Polyethylene","carbon":8.75},
     {"name":"10 Gallon High-Density Polyethylene","carbon":6.13},
     ],
   "FilteredWater":
   [
     {"name":"75 Gallon High-Density Polyethylene","carbon":24.51},
-    {"name":"40 Gallon High-Density Polyethylene","carbon":12.26},
+    {"name":"THIMBY 40 Gallon High-Density Polyethylene","carbon":12.26},
     {"name":"20 Gallon High-Density Polyethylene","carbon":8.75},
     {"name":"10 Gallon High-Density Polyethylene","carbon":6.13},
     ],
