@@ -115,12 +115,12 @@ var data_vals = {
   "Underlayment":
   [
     {"name":"Asphalt Felt","carbon":0.5577037478},
-    {"name":"Thermoplastic","carbon":0.5112284355},
+    {"name":"THIMBY Thermoplastic","carbon":0.5112284355},
     {"name":"EPDM","carbon":0.7900803093},
     ],
   "Sheathing":
   [
-    {"name":"Plywood","carbon":0.6633004749},
+    {"name":"THIMBY Plywood","carbon":0.6633004749},
     ],
   "Windows":
   [
@@ -131,7 +131,7 @@ var data_vals = {
     ],
     "Framing":
   [
-    {"name":"Lumber(pine)","carbon":9.394247581},
+    {"name":"THIMBY Lumber(fir)","carbon":9.394247581},
     {"name":"Vinyl","carbon":88.75651108},
     {"name":"Aluminum","carbon":21347.4712},
     {"name":"Fiberglass","carbon":1.091036295},
@@ -139,12 +139,12 @@ var data_vals = {
     ],
     "Door":
   [
-    {"name":"Pella 750 Sliding Door","carbon":1191.99},
+    {"name":"THIMBY Pella 750 Sliding Door","carbon":1191.99},
     ],
     "Steps":
   [
     {"name":"Concrete","carbon":0.0453592},
-    {"name":"Lumber(pine) ","carbon":0.2948348},
+    {"name":"THIMBY Lumber(fir) ","carbon":0.2948348},
     {"name":"Granite","carbon":0.29029888},
     {"name":"Limestone","carbon":0.039462504},
     {"name":"Marble","carbon":0.052616672},
@@ -155,16 +155,16 @@ var data_vals = {
     "Paint":
   [
     {"name":"General","carbon":10.89},
-    {"name":"Waterborne","carbon":9.54},
+    {"name":"THIMBY Waterborne","carbon":9.54},
     {"name":"Solventborne","carbon":14.085},
-    {"name":"Wood stain/Varnish","carbon":24.075},
+    {"name":"THIMBY Wood stain/Varnish","carbon":24.075},
     {"name":"Wood","carbon":21.54},
     ],
     "eWalls":
   [
     {"name":"Lumber","carbon":0.3914269825},
     {"name":"Glue laminated timber","carbon":0.4930917282},
-    {"name":"Sawn Softwood","carbon":0.3552952611},
+    {"name":"THIMBY Sawn Softwood (cedar)","carbon":0.3552952611},
     {"name":"Steel","carbon":12.06516111},
     {"name":"General Concrete","carbon":0.09741395493},
     {"name":"Fiber-Cement Blocks*","carbon":0.2763013994},
@@ -172,7 +172,7 @@ var data_vals = {
     ],
     "PHeatExchange":
   [
-    {"name":"Solid Stainless Steel","carbon":2.79412672},
+    {"name":"THIMBY Solid Stainless Steel","carbon":2.79412672},
     ],
     "PoLumber":
   [
@@ -209,18 +209,18 @@ var data_vals = {
     ],
     "Screws":
   [
-    {"name":"Screws and Bolts","carbon":0.92063},
+    {"name":"THIMBY Screws and Bolts","carbon":0.92063},
     ],
     "FrameWalls":
   [
     {"name":"HSS Steel (3x1.5x0.25)","carbon":2.136538946},
     {"name":"Lumber (Wood)","carbon":0.06931519482},
-    {"name":"Plyboard","carbon":0.1140407459},
+    {"name":"THIMBY Plyboard","carbon":0.1140407459},
     {"name":"Glue laminated timber","carbon":0.08731832687},
     {"name":"Laminated Veneer lumber ","carbon":0.06523783042},
     {"name":"Medium Density fiberboard","carbon":0.07427076079},
     {"name":"Particle Board","carbon":0.1348666687},
-    {"name":"Sawn Hardwood","carbon":0.01185572111},
+    {"name":"THIMBY Sawn Hardwood","carbon":0.01185572111},
     {"name":"Sawn Softwood","carbon":0.06291686915},
     {"name":"Polystyrene","carbon":10.14322806},
     {"name":"Engineered Lumber","carbon":0.09074749488},
@@ -229,13 +229,13 @@ var data_vals = {
   [
     {"name":"HSS Steel (3x3x0.25)","carbon":2.890611516},
     {"name":"Lumber (Wood)","carbon":0.09377938123},
-    {"name":"Plyboard","carbon":0.1542904209},
+    {"name":"THIMBY Plyboard","carbon":0.1542904209},
     {"name":"Glue laminated timber","carbon":0.1181365599},
     {"name":"Laminated Veneer lumber ","carbon":0.08826294704},
     {"name":"Medium Density fiberboard","carbon":0.1004839705},
     {"name":"Particle Board","carbon":0.1824666694},
     {"name":"Sawn Hardwood","carbon":0.01604009326},
-    {"name":"Sawn Softwood","carbon":0.08512282296},
+    {"name":"THIMBY Sawn Softwood","carbon":0.08512282296},
     {"name":"Polystyrene","carbon":13.7231909},
     {"name":"Engineered Lumber","carbon":0.1227760225},
     ],
@@ -243,44 +243,44 @@ var data_vals = {
   [
     {"name":"HSS Steel (4x1.5x0.25)","carbon":2.639253992},
     {"name":"Lumber (Wood)","carbon":0.08562465243},
-    {"name":"Plyboard","carbon":0.1408738625},
+    {"name":"THIMBY Plyboard","carbon":0.1408738625},
     {"name":"Glue laminated timber","carbon":0.1078638155},
     {"name":"Laminated Veneer lumber ","carbon":0.08058790817},
     {"name":"Medium Density fiberboard","carbon":0.09174623391},
     {"name":"Particle Board","carbon":0.1666000025},
     {"name":"Sawn Hardwood","carbon":0.01464530254},
-    {"name":"Sawn Softwood","carbon":0.07772083836},
+    {"name":"THIMBY Sawn Softwood","carbon":0.07772083836},
     {"name":"Polystyrene","carbon":12.52986995},
     {"name":"Engineered Lumber","carbon":0.1120998466},
     ],
     "Insulation":
   [
-    {"name":"Polyisocyanurate","carbon":2.0412},
+    {"name":"THIMBY Polyisocyanurate","carbon":2.0412},
     {"name":"General Insulation","carbon":1.8561312},
     {"name":"Cellulose","carbon":0.12501216},
-    {"name":"Cork","carbon":0.624834},
+    {"name":"THIMBY Cork","carbon":0.624834},
     {"name":"Fiberglass","carbon":0.551124},
     {"name":"Flax","carbon":1.56570793},
     {"name":"Mineral Wool (Loose)","carbon":2.7216},
     {"name":"Paper Wool","carbon":0.5708758759},
     {"name":"Polystyrene","carbon":2.5814376},
-    {"name":"Cotton","carbon":14.32799872},
+    {"name":"THIMBY Cotton","carbon":14.32799872},
     {"name":"Cellular Glass","carbon":3.095425832},
     ],
     "ITires":
   [
-    {"name":"Individual Tires","carbon":22.8},
+    {"name":"THIMBY Individual Tires","carbon":22.8},
     ],
     "Frame":
   [
-    {"name":"Trailer Frame 24' x 8'","carbon":2751.11},
+    {"name":"THIMBY Trailer Frame 24' x 8'","carbon":2751.11},
     {"name":"Trailer Frame 18' x 8'","carbon":1966.05},
     {"name":"Trailer Frame 20' x 8'","carbon":2102.58},
     {"name":"Trailer Frame 26' x 8'","carbon":2887.64},
     ],
     "ScrewsBolts":
   [
-    {"name":"Galvanized Steel","carbon":0.92063},
+    {"name":"THIMBY Galvanized Steel","carbon":0.92063},
     ],
     "HouseWrap":
   [
@@ -319,7 +319,7 @@ var data_vals = {
   [
     {"name":"Lumber","carbon":0.3914269825},
     {"name":"Glue laminated timber","carbon":0.4930917282},
-    {"name":"Sawn Softwood","carbon":0.3552952611},
+    {"name":"THIMBY Sawn Softwood","carbon":0.3552952611},
     {"name":"Steel","carbon":12.06516111},
     {"name":"General Concrete","carbon":0.09741395493},
     {"name":"Fiber-Cement Blocks","carbon":0.2763013994},
@@ -337,19 +337,19 @@ var data_vals = {
     {"name":"Vinyl","carbon":6.32761875},
     ],
   "Fan":[
-    {"name": "AE3-43”","carbon":37.8},
+    {"name": "THIMBY AE3-43”","carbon":37.8},
     {"name":"AE3-50”","carbon":45.2},
     {"name":"AE3-60”","carbon":59.9}
   ],
   "Bulbs":[
     {"name":"Fluorescent","carbon":5.8},
     {"name":"Incandescent","carbon":7.23},
-    {"name":"LED","carbon":3.7}
+    {"name":"THIMBY LED","carbon":3.7}
 
   ],
   "Battery":[
     {"name":"Lead-Acid","carbon":3201},
-    {"name":"Tesla Powerwall", "carbon":330},
+    {"name":"THIMBY Tesla Powerwall", "carbon":330},
     {"name":"Tesla Car", "carbon":412}
   ],
   "PV":[
@@ -360,23 +360,23 @@ var data_vals = {
     {"name":"Thin Film", "carbon":6.22450368}
   ],
   "Inverter":[
-    {"name":"Inverter","carbon":72}
+    {"name":"THIMBY Inverter","carbon":72}
   ],
   "Wiring":[
-    {"name":"Wire (14 gauge)","carbon":0.02672236708},
-    {"name":"Wire (12 gauge)", "carbon":0.04519709},
+    {"name":"THIMBY Wire (14 gauge)","carbon":0.02672236708},
+    {"name":"THIMBY Wire (12 gauge)", "carbon":0.04519709},
     {"name":"Wire (10 gauge)", "carbon":0.06845544653},
     {"name":"Wire (8 gauge)", "carbon":0.1072193741},
-    {"name":"Wire (6 gauge)", "carbon":0.1542309458}
+    {"name":"THIMBY Wire (6 gauge)", "carbon":0.1542309458}
   ],
   "Heat Exchanger":[
-    {"name":"Heat Exchanger","carbon":2.79412672}
+    {"name":"THIMBY Heat Exchanger","carbon":2.79412672}
   ],
   "Cooktop":[
-    {"name":"Cooktop","carbon":127.44}
+    {"name":"THIMBY Cooktop","carbon":127.44}
   ],
   "Base Sink Unit":[
-    {"name":"Basic Sink Unit","carbon":22}
+    {"name":"THIMBY Basic Sink Unit","carbon":22}
   ],
   "Tap":[
     {"name":"Conventional","carbon":3.45},
@@ -385,10 +385,11 @@ var data_vals = {
   "Refrigerator":[
     {"name":"Direct Cooling, double door, 15.25 kg","carbon":417.5},
     {"name":"Magnetic Refrigerator, 57.5 L","carbon":202},
-    {"name":"Conventional Refrigerator (Vapor-Compression), 57.5 L","carbon":179.5}
+    {"name":"THIMBY Conventional Refrigerator (Vapor-Compression), 57.5 L","carbon":179.5}
   ],
   "Counter":[
     {"name":"Wood-Bamboo (1.5in)","carbon":.1053841876},
+    {"name":"THIMBY Particle board with birch veneer","carbon":1.89},
     {"name":"Wood-Ash (1.5in)","carbon":1.243356297},
     {"name":"Wood-Oak (1.5in)","carbon":1.726883746},
     {"name":"Wood-Maple (1.5in)","carbon":1.554195372},
@@ -397,22 +398,27 @@ var data_vals = {
     {"name":"Stainless Steel (1.5in)","carbon":.1053841876}
   ],
   "Drawer":[
-    {"name":"500mm drawer line unit","carbon":0.002357}
+    {"name":"THIMBY 500mm drawer line unit","carbon":0.002357}
   ],
   "Cabinet":[
-    {"name":"500mm kitchen wall unit","carbon":0.00316}
+    {"name":"THIMBY 500mm kitchen wall unit","carbon":0.00316}
   ],
   "Storage":[
-    {"name":"500mm storage unit","carbon":0.00325}
+    {"name":"THIMBY 500mm storage unit","carbon":0.00325}
   ],
   "Cutlery":[
     {"name":"Cutlery","carbon":.277}
   ],
   "Conventional Toilet":[
-    {"name":"Conventional Toilet","carbon":100.5}
+    {"name":"Conventional Toilet","carbon":100.5},
+    {"name":"THIMBY Ecovita privy toilet seat and lid", "carbon":0.762},
+    {"name":"THIMBY Urine collection tank (RomoTech 60 Gal)","carbon":0.249},
+    {"name":"THIMBY slow cooker (Hamilton Beack 7qt)","carbon":0.001},
+    {"name":"THIMBY PVC-STD (2)","carbon":1.095706849}
+    {"name":"THIMBY total toilet system","carbon":2.1167}
   ],
   "Shower Head":[
-    {"name":"Shower Head","carbon":.7}
+    {"name":"THIMBY Shower Head","carbon":.7}
   ],
   "Tile Wall":[
     {"name":"Tile","carbon":0.34472992}
@@ -424,7 +430,7 @@ var data_vals = {
     {"name":"Glass Door","carbon":18.17}
   ],
   "Polyester Shower Curtain":[
-    {"name":"Polyester Shower Curtain","carbon":4.44}
+    {"name":"THIMBY Polyester Shower Curtain","carbon":4.44}
   ],
   "Vinyl Shower Lining":[
     {"name":"Vinyl Shower Curtain Liner","carbon":3.19}
@@ -432,7 +438,9 @@ var data_vals = {
   "Floor":[
     {"name":"Cork","carbon":0.07571721042},
     {"name":"Bamboo","carbon":0.0526920938},
-    {"name":"Hardwood","carbon":1.096704016},
+    {"name":"THIMBY Hardwood (white oak)","carbon":1.096704016},
+    {"name":"THIMBY Radiant flooring (Warmboard-R product)","carbon":29.70}
+    {"name":"THIMBY flooring total","carbon":30.7967},
     {"name":"Carpet","carbon":0.9109161214},
     {"name":"Ceramics","carbon":1.987244681},
     {"name":"Concrete (General)","carbon":0.396740471},
@@ -445,7 +453,7 @@ var data_vals = {
     {"name":"Gypsum","carbon":0.1585744944},
     {"name":"Concrete","carbon":2.477726475},
     {"name":"Hardwood","carbon":1.035461125},
-    {"name":"Softwood","carbon":0.4946534249}
+    {"name":"THIMBY Softwood (reclaimed Douglas Fir)","carbon":0.4946534249}
   ],
   "Walls":[
     {"name":"Plasterboard","carbon":0.4259329797},
@@ -456,20 +464,21 @@ var data_vals = {
   ],
   "Bed":[
     {"name":"Double Mattress","carbon":79},
+    {"name":"THIMBY Single futon mattress","carbon":30},
     {"name":"Single Divan","carbon":33},
     {"name":"Double Divan","carbon":35},
   ],
   "Couch":[
-    {"name":"Couch","carbon":90}
+    {"name":"THIMBY Couch","carbon":90}
   ],
   "Table":[
-    {"name":"Table","carbon":228}
+    {"name":"THIMBY Table/desk","carbon":228}
   ],
   "Chair":[
-    {"name":"Chair","carbon":36}
+    {"name":"THIMBY Chair","carbon":36}
   ],
   "Bed Ladder":[
-    {"name":"Wood (American Red Oak)","carbon":57},
+    {"name":"THIMBY Wood (American Red Oak)","carbon":57},
     {"name":"Aluminum","carbon":60},
   ],
   "Television":[
