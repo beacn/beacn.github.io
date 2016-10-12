@@ -20,7 +20,7 @@ var data_vals = {
     ],
   "HotWater":
   [
-    {"name":"80 Gal","carbon":400}
+    {"name":"80 Gal","carbon":400},
     {"name":"THIMBY 43 Gal Sanden","carbon":79},
     ],
   "WaterHeaters":
